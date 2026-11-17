@@ -21,7 +21,7 @@ repositories:
 
 website: "https://www.telepresence.io/"
 
-artwork: "https://landscape.cncf.io/logos/telepresence.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/telepresence"
 
 adopters:
   path: "https://github.com/telepresenceio/telepresence/blob/release/v2/ADOPTERS.md"
